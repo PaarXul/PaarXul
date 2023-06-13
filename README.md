@@ -3,11 +3,11 @@
 Me encanta la programación, me esfuerzo por seguir aprendiendo y aplicando mis conocimientos en la tecnología.  
 
 ## Habilidades: 
-JAVA / JS / HTML / CSS / GIT / SQL
+JAVA / JS / HTML / CSS / GIT / SQL / Angular
 
 ## Lo que hago actualmente:
-- 🔭 Estoy trabajando en this page. 
-- 🌱 Estoy aprendiendo JAVA / Python / JavaScript 
+- 🔭 Estoy en el curso Full Stack Java Trainee en la iniciativa Talento Digital para chile. 
+- 🌱 Estoy aprendiendo JAVA / Python / JavaScript / Angular
 
 ## Badget
 
