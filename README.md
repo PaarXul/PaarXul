@@ -1,5 +1,5 @@
 ### Hola 👋, Soy Gian Parra as PaarXul
-#### DEV en formación By One - OracleNextEducation
+#### FULL STACK JAVA - ANGULAR - SPRINGBOOT
 Me encanta la programación, me esfuerzo por seguir aprendiendo y aplicando mis conocimientos en la tecnología.  
 
 ## Habilidades: 
